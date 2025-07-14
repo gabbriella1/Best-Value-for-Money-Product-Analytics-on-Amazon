@@ -1,6 +1,6 @@
 # Best-Value-for-Money-Product-Analytics-on-Amazon
 
-This project analyzes the relationship between product ratings, review sentiment, and price to assess **value-for-money (VFM)** for Amazon products=. Using large-scale product metadata and customer reviews, we built custom scoring metrics and NLP pipelines to identify patterns in consumer perception and product worth.
+This project analyzes the relationship between product ratings, review sentiment, and price to assess **value-for-money (VFM)** for Amazon products. Using large-scale product metadata and customer reviews, we built custom scoring metrics and NLP pipelines to identify patterns in consumer perception and product worth.
 
 ---
 
